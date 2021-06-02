@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victor728
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on project works
+- 💞️ I’m looking forward to collaborate with teams and work on project
 - 📫 How to reach me on sheefobaggie76@gmail.com
 
 <!---
